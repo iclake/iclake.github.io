@@ -30,18 +30,13 @@ gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
 
-# Comment
-comment:
-    disqus: vno-jekyll
-    # duoshuo: 
     
 # Social
 social:
     weibo: ilake
     github: ilake
     twitter: ilake
-    gplus: 107108267983477358170
-    mail: onev@ilake.com
+    mail: iclake@126.com
 
 # Google Analytics
 ga:
