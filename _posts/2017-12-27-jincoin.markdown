@@ -1,0 +1,19 @@
+---
+layout: post
+title: The creation of jincoin 
+date: 2017-12-27
+---
+
+
+#### Provide and gain
+
+A future currency, that counts all your work and resources that you shared and reward you the currency, jincoin.
+
+If you share your computing resource, install the jincoin software and your computer will be used by the cloud and you will automatically be rewarded the jincoin currency.
+
+Your salary and your payment will be replaced with jincoin, based on a voting system, and the software will generate jincoin and issued directly to you.
+
+When you share your house, a system will calculate your contribution and reward you jincoin.
+
+Everything you provide will be transformed to jincoin with a simple mining and voting strategy that combines the world resources.
+
