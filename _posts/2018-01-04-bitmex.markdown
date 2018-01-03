@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Records
-date: 2017-02-04
+date: 2018-02-04
 ---
 
 
@@ -14,26 +14,28 @@ date: 2017-02-04
 下面是一个典型的，庄家在买入位挂起的高墙，一般来说，高墙是为了控制价格走势用的，有时是为了产生误导信息。下面是一个典型的产生墙，但是价格走势依然无法判断的情形。
 
 01. 开始出现左墙：
-![001][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/001.jpg]
+![001](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/001.jpg)
 
 02. 左墙消失，价格开始下降
-![002][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/002.jpg]
+![002](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/002.jpg)
 
 03. 价格反弹上升
-![003][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/003.jpg]
+![003](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/003.jpg)
 
 04. 出现右墙
-![004][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/004.jpg]
+![004](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/004.jpg)
 
 05. 价格震荡至右墙根部，价格轻微上升
-![005][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/005.jpg]
+![005](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/005.jpg)
 
 06. 价格又回弹，轻微下降，右墙没有消失
-![006][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/006.jpg]
+![006](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/006.jpg)
 
 07. 右墙消失后价格反弹上升一点，然后下降
-![008][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/008.jpg]
+![008](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/008.jpg)
 
 08. 价格震荡下降
-![009][https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/009.jpg]
+![009](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/009.jpg)
 
+09. 价格下降了大约300点左右又开始回弹
+![010](https://github.com/iclake/iclake.github.io/blob/master/assets/20180104/010.jpg)
