@@ -41,5 +41,11 @@ Bobsun: 看看其他交易所都是低杠杆的， 还是这里好玩哈
 
 2018-01-01 17:46
 
-12355: 準備要下拉了
-	。
+12355: 準備要下拉了	
+
+
+2018-01-08 22:22
+
+jillian: madhatter: might not be sell off, but sell into btc waiting for a run, people have been waiting for an alt drop and a btc run. i know of a lot of traders who have moved profits back into btc anticipating another run soon
+
+。
